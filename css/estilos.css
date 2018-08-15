@@ -1,0 +1,102 @@
+label
+{
+font-size: 20px;
+color: brown;
+
+}
+#dire
+{
+font-size: 20px;
+color: yellow ;
+
+}
+#nom
+{
+font-size: 20px;
+color: green;
+}
+#apP
+{
+  font-size: 20px;
+  color: red;
+}
+#apM
+{
+  font-size: 20px;
+  color: green;
+}
+.gener
+{
+  background-color: rgba(255,46,209,0.4);
+  border-radius: 5px;
+}
+
+.separar
+{
+
+}
+.separar2
+{
+  margin-bottom: 35px;
+}
+body
+{
+  text-align: center;
+}
+#cabezera
+{
+  background: #FFFBB9;
+  border:1px #999999;
+  padding: 20px;
+  text-align: center;
+}
+
+#apellifdoP
+{
+  float: none;
+}
+#campoApellidos
+{
+  width: 960px;
+  margin: 15px auto;
+  text-align: center;
+}
+nav
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 400 px;
+background-color: #f1f1f1;
+}
+li a
+{
+display: block;
+color: #000;
+padding: 8px 16px;
+text-decoration: underline;
+}
+
+li a:hover
+{
+  background-color: yellow;
+  color: white;
+}
+header
+{
+  display: inline-block;
+  text-align: center;
+}
+#centrar2
+{
+  text-align: center;
+  display: flex;
+}
+table, tr, td
+{
+  border: 1px solid black;
+}
+h2:first-letter
+{
+  font-size: 2em;
+}
